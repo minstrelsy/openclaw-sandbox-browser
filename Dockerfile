@@ -1,6 +1,6 @@
 FROM debian:bookworm-slim
 
-LABEL org.opencontainers.image.source="https://github.com/canyugs/openclaw-sandbox-browser"
+LABEL org.opencontainers.image.source="https://github.com/minstrelsy/openclaw-sandbox-browser"
 LABEL org.opencontainers.image.description="Headless Chromium browser sandbox for OpenClaw"
 LABEL org.opencontainers.image.licenses="MIT"
 
